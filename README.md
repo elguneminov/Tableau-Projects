@@ -1,4 +1,4 @@
-# Tableau-Projects
+# Tableau-Project
 
 Prosper Loan Data Visualization
 
